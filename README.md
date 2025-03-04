@@ -31,8 +31,9 @@ The **Literary Editor** is a web application designed to help writers and author
    git clone https://github.com/your-username/literary-editor.git
    ```
 2. Open the `index.html` file in your browser.
-3. Create a new chapter and start writing.
-4. Use the analysis and suggestion tools to enhance your writing.
+3. To run the application on a local server, use Apache or a similar web server.
+4. Create a new chapter and start writing.
+5. Use the analysis and suggestion tools to enhance your writing.
 
 ---
 
@@ -88,8 +89,9 @@ O **Editor Literário** é uma aplicação web que visa ajudar escritores e auto
    git clone https://github.com/seu-usuario/editor-literario.git
    ```
 2. Abra o arquivo `index.html` no seu navegador.
-3. Crie um novo capítulo e comece a escrever seu texto.
-4. Utilize as ferramentas de análise e sugestões para aprimorar sua escrita.
+3. Para rodar a aplicação em um servidor local, use o Apache ou um servidor web similar.
+4. Crie um novo capítulo e comece a escrever seu texto.
+5. Utilize as ferramentas de análise e sugestões para aprimorar sua escrita.
 
 ---
 
